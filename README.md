@@ -35,7 +35,7 @@ I will graduate in **Computer science and engineering** by the year of *2027*
 - **ME101 :** Introduction to manufacturing 
 
 ### Autumn Semester
-- []**CS102 :** Software tools - *Dr. P. Clint*
+-[] **CS102 :** Software tools - *Dr. P. Clint*
 - [] **BIO101 :** Biology - *Dr. Sreenath B.*
 - [] **ME102 :** Engineering Drawing - *Dr. Arindam Das*
 - [] **PH102 :** Electricity and magnetism - *Dr. Vaibhav Wasnik*
