@@ -8,18 +8,18 @@ Myself **Ayush Raj**
 
 I am first year undergrad at **IIT Goa**
 
-Currently, I am enrolled in *2nd semester* of my **Btech Programme** 
+Currently, I am enrolled in *2nd semester* of  **Btech Programme** 
 
-I will graduate in **Computer science and engineering** year of *2027*
+I will graduate in **Computer science and engineering** by the year of *2027*
 
 ![profile photo](https://t3.ftcdn.net/jpg/06/81/04/96/240_F_681049694_t0hZQpUCCcE7Bob3R3cDYjthZ2B3PYi9.jpg)
 
 ## Education
-| Academic year | Standard | School name
-|:--------:| -------------:|:--
-| 2009 - 2020 | Kg-10 | St. Joseph Academy
-| 2020 - 2023 | 10-12 | Allen Career Institute
-| 2023 onwards |1st year - ____ |IIT Goa
+| Academic year | Standard             | School name
+|:-------------:| --------------------:|:----------------
+| 2009 - 2020   | Kg-10                | St. Joseph Academy
+| 2020 - 2023   | 10-12                | Allen Career Institute
+| 2023 onwards  |currently in 1st year | IIT Goa
 
 ## Course @IIT Goa
 ### Spring Semester
