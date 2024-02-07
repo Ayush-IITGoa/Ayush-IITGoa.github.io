@@ -47,14 +47,14 @@ I will graduate in **Computer science and engineering** by the year of *2027*
 
 ### Hobbies, Interests, Extracurricular Activities, Projects
 
-I am a great tech enthusiast and deep into futuristic inventions.
-Beleives in creativity
-Loves to code,programme.
-Into web developing
+I am a great tech enthusiast and deep into futuristic inventions.  
+Beleives in creativity  
+Loves to code,programme.  
+Into web developing  
 
-I am part of my college chess team too.
-I am a great chess addict.
-chess.com id: Itzz_Ayush
+I am part of my college chess team too.    
+I am a great chess addict.   
+chess.com id: Itzz_Ayush  
 
 ### Contact Me
 **Mail :** *ayush.raj.23031@iitgoa.ac.in*    
