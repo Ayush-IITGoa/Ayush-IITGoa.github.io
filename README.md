@@ -35,15 +35,15 @@ I will graduate in **Computer science and engineering** year of *2027*
 - **ME101 :** Introduction to manufacturing 
 
 ### Autumn Semester
-1.**CS102 :** Software tools
-2.**BIO101 :** Biology
-3.**ME102 :** Engineering Drawing
-4.**PH102 :** Electricity and magnetism
-5.**MA102 :** Basic linear Algebra
+1.**CS102 :** Software tools - *Dr. P. Clint*
+2.**BIO101 :** Biology - *Dr. Sreenath B.*
+3.**ME102 :** Engineering Drawing - *Dr. Arindam Das*
+4.**PH102 :** Electricity and magnetism - *Dr. Vaibhav Wasnik*
+5.**MA102 :** Basic linear Algebra - *Dr. Kalpesh Haria*
 6.**NO102 :** National Sports Organisation 
-7.**PH103 :** Physics lab
-8.**MA103 :** Ordinary Differential Equation
-9.**EE101 :** Electrical Engineering
+7.**PH103 :** Physics lab - *Dr. Santosh Kumar Das*
+8.**MA103 :** Ordinary Differential Equation - *Dr. L.P. Tripathi*
+9.**EE101 :** Electrical Engineering - *Dr. Apeksha Madhukar*
 
 ### Hobbies, Interests, Extracurricular Activities, Projects
 
@@ -52,8 +52,8 @@ Beleives in creativity
 Loves to code,programme.
 Into web developing
 
-I am part of my college chess team.
-I am a chess addict.
+I am part of my college chess team too.
+I am a great chess addict.
 chess.com id: Itzz_Ayush
 
 ### Contact Me
