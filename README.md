@@ -35,15 +35,15 @@ I will graduate in **Computer science and engineering** by the year of *2027*
 - **ME101 :** Introduction to manufacturing 
 
 ### Autumn Semester
-1.**CS102 :** Software tools - *Dr. P. Clint*
-2.**BIO101 :** Biology - *Dr. Sreenath B.*
-3.**ME102 :** Engineering Drawing - *Dr. Arindam Das*
-4.**PH102 :** Electricity and magnetism - *Dr. Vaibhav Wasnik*
-5.**MA102 :** Basic linear Algebra - *Dr. Kalpesh Haria*
-6.**NO102 :** National Sports Organisation 
-7.**PH103 :** Physics lab - *Dr. Santosh Kumar Das*
-8.**MA103 :** Ordinary Differential Equation - *Dr. L.P. Tripathi*
-9.**EE101 :** Electrical Engineering - *Dr. Apeksha Madhukar*
+- [] **CS102 :** Software tools - *Dr. P. Clint*
+- [] **BIO101 :** Biology - *Dr. Sreenath B.*
+- [] **ME102 :** Engineering Drawing - *Dr. Arindam Das*
+- [] **PH102 :** Electricity and magnetism - *Dr. Vaibhav Wasnik*
+- [] **MA102 :** Basic linear Algebra - *Dr. Kalpesh Haria*
+- [] **NO102 :** National Sports Organisation 
+- [] **PH103 :** Physics lab - *Dr. Santosh Kumar Das*
+- [] **MA103 :** Ordinary Differential Equation - *Dr. L.P. Tripathi*
+- [] **EE101 :** Electrical Engineering - *Dr. Apeksha Madhukar*
 
 ### Hobbies, Interests, Extracurricular Activities, Projects
 
@@ -58,4 +58,4 @@ chess.com id: Itzz_Ayush
 
 ### Contact Me
 **Mail :** *ayush.raj.23031@iitgoa.ac.in*
-**Insta :** *@Itssme_Ayush*
+**Insta :** [*Itssme_Ayush*](instagram.com/Itssme_Ayush)
