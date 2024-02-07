@@ -58,4 +58,6 @@ chess.com id: Itzz_Ayush
 
 ### Contact Me
 **Mail :** *ayush.raj.23031@iitgoa.ac.in*
-**Insta :** [*itssme_Ayush*](https://www.instagram.com/itssme_ayush/)
+**Insta :** [itssme_Ayush](https://www.instagram.com/itssme_ayush/)
+[Itssme_Ayush](https://www.instagram.com/itssme_Ayush/)
+
